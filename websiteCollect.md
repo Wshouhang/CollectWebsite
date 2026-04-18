@@ -256,6 +256,10 @@
 
 [GitHub](https://github.com/)
 
+[GitHub开源协议详解及常用协议介绍_bsd-3-clause-CSDN博客](https://blog.csdn.net/qq_42768234/article/details/104193778)
+
+
+
 
 
 ## 测试
