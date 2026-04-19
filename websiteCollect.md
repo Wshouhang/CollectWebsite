@@ -14,6 +14,12 @@
 
 [PKUFlyingPig/cs-self-learning: 计算机自学指南](https://github.com/PKUFlyingPig/cs-self-learning)
 
+[TIOBE指数 - TIOBE](https://www.tiobe.com/tiobe-index/)
+
+>可以查看当前热门语言
+
+
+
 
 
 
@@ -294,11 +300,17 @@
 
 > 黑马程序员前端接口文档
 
+[接入说明 - MetaChat API](https://metachat.apifox.cn/接入说明-6865741m0)
 
+>一些AI的接口，如grok等
 
 
 
 ## 408
+
+[计算机考研专业课程408相关的复习经验-cs-408 - A姐分享](https://www.ahhhhfs.com/47714/)
+
+
 
 ### 操作系统
 
@@ -540,6 +552,8 @@
 
 
 
+
+
 #### C语言练习
 
 [hubojing/C-100Practice: C语言经典100例（全部VS2015下编写测试通过）](https://github.com/hubojing/C-100Practice)
@@ -563,6 +577,10 @@
 [C 语言练习题 | C 语言挑战题 | LabEx](https://labex.io/zh/exercises/c)
 
 [编程入门题库_蓝桥杯ACM在线编程训练 - C语言网](https://www.dotcpp.com/oj/problemset.html)
+
+[Dotcpp编程(C语言网)-编程入门学习-训练题库-实用的编程学练平台](https://www.dotcpp.com/)
+
+
 
 ### 考证&赛事
 
@@ -652,6 +670,14 @@
 
 [English-level-up-tips](https://byoungd.github.io/English-level-up-tips/#/)
 
+[小林coding | Java面试学习](https://www.xiaolincoding.com/)
+
+>​      小林coding・从图解计算机到面试全攻略    
+>
+>​      图解计算机网络、操作系统、MySQL、Redis，覆盖后端技术面试，让天下没有难懂的八股文！    
+
+
+
 ### 机构
 
 [黑马程序员官网-IT培训机构|AI培训|AI智能应用开发培训|AI大模型开发培训|AI鸿蒙开发培训|AI嵌入式+机器人开发培训|AI大数据开发培训|AI运维培训|AI测试培训|跨境电商运营培训|AI设计培训|AI视频创作与直播运营培训|微短剧拍摄剪辑培训|java培训|ai大模型培训|前端培训|python培训|大数据培训|鸿蒙开发培训](https://www.itheima.com/)
@@ -736,7 +762,17 @@
 
 [开源视频工具全景图 2026](https://doc-openvideo.vercel.app/#ai-gen)
 
+[Stable Diffusion官网](https://stabilitycn.com/)
 
+>专注于图像生成与艺术创作，通过深度神经网络实现稳定且高质量的图像输出，为设计师、艺术家和游戏开发者提供无限创意可能。
+
+[产品搜索——科技界最棒的新产品。](https://www.producthunt.com/)
+
+>搜索ai热门产品
+
+[Learn Anything](https://learn-anything.xyz/)
+
+>可以学习其它语言与方向
 
 
 
@@ -775,6 +811,12 @@
 [Google Skills](https://www.skills.google/)
 
 [Claw123龙虾导航 - OpenClaw中文社区](https://www.claw123.com/)
+
+[Imagine Explainers | AI-Powered Explainer Videos & Podcasts](https://imagineexplainers.com/)
+
+>利用AI将任何主题转化为引人入胜的视觉故事。创建、发现和分享解释视频，使复杂的想法变得简单。
+
+
 
 
 
@@ -958,6 +1000,8 @@
 
 [使用 Gemini 顶级平台买卖及交易比特币、索拉纳和其他加密货币 | Gemini](https://www.gemini.com)
 
+[黑客新闻](https://news.ycombinator.com/)
+
 
 
 ### VPN
@@ -970,9 +1014,11 @@
 
 [订阅详情 - 优信云](https://yx.lt.adfgawidhioawjd.shop/#/stage/buysubs/order?id=7)
 
-[www.bjch321.com](https://www.bjch321.com/?mid=3013)
+[白鲸加速器](https://www.bjch321.com/?mid=3013)
 
+[Panda Nodes - Free Trial Private Proxy Buy Private Proxy - Global CN2 Network High Speed Anonymous Acceleration Proxy](https://i1i1.hpan0905nod.top/index.html)
 
+>一个网络加速器，Windows，Android，MAC，IOS，Linux，路由器等服務加速，網站加加速Google/Youtube/Twitter/Tiktok/Facebook等）
 
 ## 浏览器插件
 
