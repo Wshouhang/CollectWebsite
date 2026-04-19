@@ -1,1 +1,1 @@
-[网站收集跳转](./websiteCollext.md)
+[网站收集跳转](./websiteCollect.md)
