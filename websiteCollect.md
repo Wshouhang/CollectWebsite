@@ -1020,6 +1020,18 @@
 
 >一个网络加速器，Windows，Android，MAC，IOS，Linux，路由器等服務加速，網站加加速Google/Youtube/Twitter/Tiktok/Facebook等）
 
+[极连云](https://z1.jilianclou.com/#/home)
+
+[狗狗加速.com](https://panel.dg5.biz/#/dashboard)
+
+[大狗-发布页](http://43.161.230.111:24683/)
+
+[豹子云](https://bz2.baozi8.cn/#/dashboard)
+
+
+
+
+
 ## 浏览器插件
 
 *Improve YouTube!* (for YouTube + Videos)
