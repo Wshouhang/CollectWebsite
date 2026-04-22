@@ -782,6 +782,10 @@
 
 >一个神奇的文档网站生成器。docsify 可以快速帮你生成文档网站。不同于 GitBook、Hexo 的地方是它不会生成静态的 `.html` 文件，所有转换工作都是在运行时。如果你想要开始使用它，只需要创建一个 `index.html` 就可以开始编写文档并直接
 
+[Next-gen Tech Edu](https://ng-tech.icu/books-gallery/)
+
+>可以看计算机方向的书籍
+
 
 
 ## 社区
@@ -829,6 +833,26 @@
 [Imagine Explainers | AI-Powered Explainer Videos & Podcasts](https://imagineexplainers.com/)
 
 >利用AI将任何主题转化为引人入胜的视觉故事。创建、发现和分享解释视频，使复杂的想法变得简单。
+
+[An ultimate infrastructure for AI Video and Image Generation by Higgsfield](https://higgsfield.ai/)
+
+>量身定制的工作流程、专属支持、无缝的入职、大规模的全面控制，且无需对你的数据进行培训。
+
+[NemoVideo: Pro AI Video Editing Agent | Chat Your Way to Virality](https://cn.nemovideo.com/)
+
+> Pro AI 视频编辑代理
+
+[Prompts | prompts.chat](https://prompts.chat/prompts)
+
+>可以查看ai提示词大全
+
+[AI Super Quant](https://superquant.soo.network/)
+
+>ai套利机会
+
+[鬼手剪辑官网 - AI视频创作软件-GhostCut](https://cn.jollytoday.com/home/)
+
+>ai视频剪辑
 
 
 
