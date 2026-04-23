@@ -148,6 +148,10 @@
 
 > 物质化基于材质设计的现代响应式前端框架
 
+[免费 DSA Java 课程及认证 2026](https://www.scaler.com/topics/course/dsa-beginners-java/)
+
+
+
 
 
 ### CSS效果
@@ -788,7 +792,9 @@
 
 [编程游戏与编程挑战：提升编码能力](https://www.codingame.com/start/)
 
+[冲浪者：AI可视化平台](https://surferseo.com/)
 
+>搜索已经发生了变化。人们转向谷歌、ChatGPT及其他AI聊天来寻找答案。Surfer为你提供了一个工作流程，确保你的内容在所有平台上都能看到。
 
 
 
@@ -814,7 +820,9 @@
 
 [OSCHINA - 开源 × AI · 开发者生态社区](https://www.oschina.net/)
 
+[V2EX](https://www.v2ex.com/)
 
+>V2EX是一个以技术和创意为主题的中文社区，汇聚了大量互联网行业的创意工作者，提供讨论技术、编程、创业等话题的平台。
 
 
 
@@ -971,6 +979,12 @@
 [超级简历WonderCV - AI智能简历制作工具,HR推荐专业中英文简历模板免费下载](https://www.wondercv.com/)
 
 [AgentHelpJob - 大学生大厂实习 AI 护航](https://agenthelpjob.com/)
+
+[写简历从未如此简单 - 简历模板在线制作 - 老鱼简历](https://www.laoyujianli.com/)
+
+[简历汪 - 完全免费简历制作与下载 | 面试准备平台](https://www.lgdsunday.club/)
+
+
 
 
 
