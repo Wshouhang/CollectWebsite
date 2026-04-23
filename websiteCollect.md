@@ -786,6 +786,10 @@
 
 >可以看计算机方向的书籍
 
+[编程游戏与编程挑战：提升编码能力](https://www.codingame.com/start/)
+
+
+
 
 
 ## 社区
@@ -807,6 +811,10 @@
 [少数派 - 高效工作，品质生活](https://sspai.com/)
 
 >是一个聚焦数字生活与效率工具的内容平台，同时兼具社区功能，旨在帮助用户提升工作效率和生活品质。
+
+[OSCHINA - 开源 × AI · 开发者生态社区](https://www.oschina.net/)
+
+
 
 
 
@@ -853,6 +861,38 @@
 [鬼手剪辑官网 - AI视频创作软件-GhostCut](https://cn.jollytoday.com/home/)
 
 >ai视频剪辑
+
+[可灵 AI - 新一代 AI 创意生产力平台](https://klingai.com/)
+
+>新手限时专享3折试用
+
+[不鸣API聚合大模型 - AI大模型聚合平台](https://bb2.ai6700.com/home?menu=all)
+
+>AI生成视频
+
+[Viralux](https://viralux.ai/zh/)
+
+>AI生成视频
+
+[AI工作流程自动化软件与工具 |制作](https://www.make.com/en)
+
+>最高29$
+
+[BoomCut - 爆剪辑 - 小影科技旗下 AI 内容创意产品与服务平台](https://boomcutai.com/)
+
+>AI剪辑，可定制
+
+[Flow](https://labs.google/fx/tools/flow#pricing)
+
+>AI视频创作
+
+[Perplexity Pro](https://www.perplexity.ai/pro?referral_code=PJCA2SXR&login-source=proPage&login-new=true)
+
+>在几分钟内生成全面且带引用的报告，由专有数据和网页数据驱动。
+
+[鬼手剪辑官网 - AI视频创作软件-GhostCut](https://cn.jollytoday.com/home/)
+
+
 
 
 
@@ -1039,6 +1079,10 @@
 [使用 Gemini 顶级平台买卖及交易比特币、索拉纳和其他加密货币 | Gemini](https://www.gemini.com)
 
 [黑客新闻](https://news.ycombinator.com/)
+
+[Reddit Inc Homepage](https://redditinc.com/)
+
+>Reddit拥有成千上万的社区、无尽的交流和真诚的人际连接。无论你喜欢突发新闻、体育、电视粉丝理论，还是源源不断的网络上最可爱动物，Reddit上都有适合你的社区。
 
 
 
