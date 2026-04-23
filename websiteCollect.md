@@ -796,6 +796,16 @@
 
 >搜索已经发生了变化。人们转向谷歌、ChatGPT及其他AI聊天来寻找答案。Surfer为你提供了一个工作流程，确保你的内容在所有平台上都能看到。
 
+[按主题分类的最佳在线课程 |今天就在edX上开始学习吧](https://www.edx.org/learn)
+
+[年度百大免费大学课程（按受欢迎程度排名）](https://www.freecodecamp.org/news/most-popular-free-online-courses/)
+
+[Unlock digital opportunities with the world’s most trusted forecasts, analysis, and benchmarks. | EMARKETER](https://www.emarketer.com/)
+
+>EMARKETER为媒体、广告和商业数据提供了成千上万的现成预测、图表和报告，成为黄金标准。
+
+
+
 ### 跨境
 
 [遨虾-AI跨境电商运营Agent](https://www.alphashop.cn/?utm_source=ai-bot.cn)
@@ -857,6 +867,8 @@
 [V2EX](https://www.v2ex.com/)
 
 >V2EX是一个以技术和创意为主题的中文社区，汇聚了大量互联网行业的创意工作者，提供讨论技术、编程、创业等话题的平台。
+
+[拥抱面——构建未来的人工智能社区。](https://huggingface.co/)
 
 
 
