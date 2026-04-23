@@ -796,6 +796,40 @@
 
 >搜索已经发生了变化。人们转向谷歌、ChatGPT及其他AI聊天来寻找答案。Surfer为你提供了一个工作流程，确保你的内容在所有平台上都能看到。
 
+### 跨境
+
+[遨虾-AI跨境电商运营Agent](https://www.alphashop.cn/?utm_source=ai-bot.cn)
+
+[卖家精灵官网 - 170万亚马逊卖家的选品及关键词工具](https://www.sellersprite.com/cn/)
+
+[海鹰数据](https://www.haiyingshuju.com/index.html?source=hikuajing#/)
+
+[FastMoss-TikTok短视频&直播电商与达人营销一站式数据分析](https://www.fastmoss.com/zh)
+
+[TikTok 商品 | 出海匠](https://www.chuhaijiang.com/app/discover/tiktok/products?countryCode=US&country=US)
+
+[Shopee Singapore | Cheaper, Faster On Shopee](https://shopee.sg/)
+
+>需要梯子
+
+[Temu | 没有互联网连接](https://www.temu.com/bgn_no_access.html?refer_page_name=home&refer_page_id=10005_1774360951919_7myhz06kw3&refer_page_sn=10005&_x_sessn_id=5vc5a0n72w)
+
+[Best Dropshipping Products & AliExpress Trending Product | FindNiche](https://findniche.com/aliexpress-analytics)
+
+>关于选品的
+
+[TikTok创意支持_TikTok品牌创造力_高效营销-TikTok for Business 官网](https://www.tiktokforbusinessoutbound.com/creative)
+
+[接口认证说明 - EchoTik API Docs](https://opendocs.echotik.live/authentication)
+
+[互联网技术 - 知无不言跨境电商社区](https://www.wearesellers.com/category-89)
+
+[深圳跨境电商展-2026深圳跨境电商展-深圳跨境展【CCBEC】](http://ccbec-expo.cn/)
+
+[【官方网站】ICBE2026国际跨境电商展丨跨境电商展会丨深圳跨境电商展丨跨境电商选品大会丨出口跨境电商大会|户外用品展|户外展会|户外](http://www.icbeexpo.com.cn/index.html)
+
+[中国(厦门)国际跨境电商展览会（中跨展ICEIE）](https://www.iceie.cn/)
+
 
 
 ## 社区
@@ -919,6 +953,10 @@
 
 
 ## 其它
+
+[投资人必懂的：“资产负债表、利润表、现金流量表” 一次性全图解来了！|财务报表_网易订阅](https://www.163.com/dy/article/K7CTQH6H0556E3ES.html)
+
+[从0到1搭建公司财务体系：小企业主必须知道的5个关键点_开发票_融资_业务](https://www.sohu.com/a/935137281_121616157)
 
 [以下是查询并下载《教育部学籍在线验证报告》的详细操作流程，结合最新政策和学信网操作指南整理：_学籍在线验证报告怎么下载-CSDN博客](https://blog.csdn.net/qq_73178144/article/details/147167963)
 
