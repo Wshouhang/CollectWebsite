@@ -842,6 +842,26 @@
 
 
 
+### 学术
+
+[The Lens - 专利和学术搜索与分析](https://www.lens.org/?v=pc&locale=zh)
+
+[dblp: computer science bibliography](https://dblp.org/)
+
+[arXiv.org e-Print archive](https://arxiv.org/)
+
+>arXiv 是一个免费分发服务，开放获取档案，支持近 240 万个用户 涵盖物理学、数学、计算机科学、定量生物学、定量金融、统计学、电气工程与系统科学以及经济学领域的学术文章。 本网站上的材料未经arXiv同行评审。
+
+[IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
+
+[ACM Digital Library](https://dl.acm.org/)
+
+[CCF推荐国际学术刊物目录-中国计算机学会](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
+
+
+
+
+
 ## 社区
 
 [魔搭社区](https://modelscope.cn/my/overview)
@@ -1173,6 +1193,8 @@
 [大狗-发布页](http://43.161.230.111:24683/)
 
 [豹子云](https://bz2.baozi8.cn/#/dashboard)
+
+[购买订阅 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙](https://cokecloud.xin/#/stage/buysubs)
 
 
 
