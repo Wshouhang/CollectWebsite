@@ -840,6 +840,8 @@
 
 [中国(厦门)国际跨境电商展览会（中跨展ICEIE）](https://www.iceie.cn/)
 
+[Linkfox - 跨境电商AI运营助手 | AI选品·AI作图·Listing生成·智能运营一站式平台](https://www.linkfox.com/)
+
 
 
 ### 学术
@@ -965,6 +967,42 @@
 >在几分钟内生成全面且带引用的报告，由专有数据和网页数据驱动。
 
 [鬼手剪辑官网 - AI视频创作软件-GhostCut](https://cn.jollytoday.com/home/)
+
+[最好的AI导航站和AI工具列表 - Toolify](https://www.toolify.ai/zh/)
+
+[鬼手剪辑官网 - AI视频创作软件-GhostCut](https://cn.jollytoday.com/home/)
+
+[Seko - World Class AI Video Generation Platform](https://seko.sensetime.com/explore)
+
+>输入你的灵感，AI会为你自动策划内容生成视频
+
+[剪映官网-剪映AI 创作无限新可能](https://www.capcut.cn/)
+
+[Datawhale-学用AI，从此开始](https://www.datawhale.cn/home)
+
+[OpenRouter](https://openrouter.ai/)
+
+> 大型语言模型的统一接口
+>
+> [价格更](https://openrouter.ai/models?order=pricing-low-to-high)优惠，运行[时间](https://openrouter.ai/docs/features/uptime-optimization)更长，无需订阅。
+
+[inSai Hilight｜AI原生营销视频多智能体平台](https://www.hi-light.ai/)
+
+[硅基流动 SiliconFlow - 致力于成为全球领先的 AI 能力提供商](https://siliconflow.cn/)
+
+> 全场景产品矩阵，支撑 AI 应用全流程落地
+>
+> 助力用户一站式实现 AI 能力与应用的快速对接
+
+[147 API](https://api.147ai.cn/)
+
+>一站式接入 OpenAI GPT5.2, Claude 4.5, Gemini 3 Pro 等全球最强模型。企业级稳定性，极致的低延迟体验。
+
+[推理时代](https://aihubmix.com/)
+
+>一站式对接各种大模型。让开发更智能、更高效。
+
+[DMXAPI官网：中国人工智能AI多模态大模型API聚合平台](https://dmxapi.cn/)
 
 
 
@@ -1167,6 +1205,14 @@
 [Reddit Inc Homepage](https://redditinc.com/)
 
 >Reddit拥有成千上万的社区、无尽的交流和真诚的人际连接。无论你喜欢突发新闻、体育、电视粉丝理论，还是源源不断的网络上最可爱动物，Reddit上都有适合你的社区。
+
+[App unavailable in region | Claude](https://claude.com/app-unavailable-in-region)
+
+>claude官网
+
+
+
+
 
 
 
@@ -1385,6 +1431,10 @@ Google 文档的离线功能
 [2026招警考试报名_公安招警考试_招警考试面试_华图招警考试网](https://zhaojing.huatu.com/)
 
 >机构收集的信息网站
+
+[专项练习 | BALA 公考](https://baijing1.top/practice/special/)
+
+
 
 ### 其它网站
 
