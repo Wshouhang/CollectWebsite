@@ -680,6 +680,10 @@
 >
 >​      图解计算机网络、操作系统、MySQL、Redis，覆盖后端技术面试，让天下没有难懂的八股文！    
 
+[欢迎来到 Chandoo.org——学习Excel，在线记录](https://chandoo.org/)
+
+
+
 
 
 ### 机构
@@ -792,9 +796,7 @@
 
 [编程游戏与编程挑战：提升编码能力](https://www.codingame.com/start/)
 
-[冲浪者：AI可视化平台](https://surferseo.com/)
 
->搜索已经发生了变化。人们转向谷歌、ChatGPT及其他AI聊天来寻找答案。Surfer为你提供了一个工作流程，确保你的内容在所有平台上都能看到。
 
 [按主题分类的最佳在线课程 |今天就在edX上开始学习吧](https://www.edx.org/learn)
 
@@ -803,6 +805,18 @@
 [Unlock digital opportunities with the world’s most trusted forecasts, analysis, and benchmarks. | EMARKETER](https://www.emarketer.com/)
 
 >EMARKETER为媒体、广告和商业数据提供了成千上万的现成预测、图表和报告，成为黄金标准。
+
+[分类: 网赚项目 | M.'s Blog](https://869hr.uk/categories/online-earning/)
+
+[网页版Snapchat](https://values.snap.com/privacy/privacy-by-product/snapchat-web?lang=zh-Hans)
+
+>一旦你开始运行，你会发现 Snapchat for Web 的体验与 Snapchat 应用非常相似，但我们希望你注意一些差异。例如，如果你在Snapchat网页版给某人打电话，你只能使用选定的一组镜头，而且并非所有创意工具都可用。你可以期待更多变化
+
+[JSTOR 首页](https://www.jstor.org/)
+
+>探索世界的知识、文化和思想
+
+
 
 
 
@@ -891,6 +905,14 @@
 >V2EX是一个以技术和创意为主题的中文社区，汇聚了大量互联网行业的创意工作者，提供讨论技术、编程、创业等话题的平台。
 
 [拥抱面——构建未来的人工智能社区。](https://huggingface.co/)
+
+[大学生成长实验室 | 助力大学生校招与职场成长的专业 AI 平台](https://mp.jobleap4u.com/)
+
+[中途之旅](https://www.midjourney.com/home)
+
+>我们是社区资助的研究一个由60人组成的实验室，以打造世界上最美丽的人工智能模型而闻名。
+
+
 
 
 
@@ -1004,6 +1026,12 @@
 
 [DMXAPI官网：中国人工智能AI多模态大模型API聚合平台](https://dmxapi.cn/)
 
+[冲浪者：AI可视化平台](https://surferseo.com/)
+
+>搜索已经发生了变化。人们转向谷歌、ChatGPT及其他AI聊天来寻找答案。Surfer为你提供了一个工作流程，确保你的内容在所有平台上都能看到。
+
+[维度人工智能 |最先进的科学研究数据库](https://www.dimensions.ai/)
+
 
 
 
@@ -1092,7 +1120,7 @@
 
 [简历汪 - 完全免费简历制作与下载 | 面试准备平台](https://www.lgdsunday.club/)
 
-
+[AI简历生成在线制作工具_简历模板免费下载使用-UP简历](https://upcv.tech/)
 
 
 
