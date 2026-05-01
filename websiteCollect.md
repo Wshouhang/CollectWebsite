@@ -480,7 +480,19 @@
 
 [英语学习资源导航 | 全网最全](https://en.knowledgefxg.com/)
 
+[《新概念英语第一册》学习笔记(全套PDF免费下载)_在线免费学习_夸克英语笔记](https://www.ncego.com/books/nce1)
 
+[同桌英语丨雅思机考_剑桥雅思真题_雅思备考](https://ielts.itongzhuo.com/)
+
+[新概念英语第一册语法练习 - 课程列表 | 在线英语学习平台](http://www.nceclub.cn/)
+
+[FREE IELTS Online Practice Tests](https://mini-ielts.com/)
+
+>雅思备考课程
+
+[How to do IELTS | Dream Big. Improve your IELTS Score Today!](https://howtodoielts.com/)
+
+>最佳雅思博客
 
 
 
@@ -816,6 +828,8 @@
 
 >探索世界的知识、文化和思想
 
+[通过全球最值得信赖的预测、分析和基准，开启数字机遇。|EMARKETER](https://www.emarketer.com/)
+
 
 
 
@@ -873,6 +887,10 @@
 [ACM Digital Library](https://dl.acm.org/)
 
 [CCF推荐国际学术刊物目录-中国计算机学会](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
+
+[理解Supermicro主板攻击 |浅蓝色触纸](https://www.lightbluetouchpaper.org/2018/10/05/making-sense-of-the-supermicro-motherboard-attack/)
+
+>剑桥大学计算机实验室安全研究
 
 
 
